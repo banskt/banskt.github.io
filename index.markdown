@@ -4,3 +4,9 @@
 
 layout: home
 ---
+
+[Homepage](https://saik.at) &nbsp;&nbsp;&nbsp; \| &nbsp;&nbsp;&nbsp; [Twitter](https://twitter.com/banskt) &nbsp;&nbsp;&nbsp; \| &nbsp;&nbsp;&nbsp; [LinkedIn](https://linkedin.com/in/banskt)
+
+## Projects
+
+- [Trans-eQTL ideas](/trans-eqtl-ideas)
