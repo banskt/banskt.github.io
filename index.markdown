@@ -9,4 +9,5 @@ layout: home
 
 ## Projects
 
+- [GLM with adaptive shrinkage prior](/glm-ash-notes)
 - [Trans-eQTL ideas](/trans-eqtl-ideas)
