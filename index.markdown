@@ -9,6 +9,6 @@ layout: home
 
 ## Projects
 
-- [Empirical Bayes Multiple Regression](/iridge-notes)
+- [Empirical Bayes Multiple Regression](/iridge-notes/categories)
 - [GLM with adaptive shrinkage prior](/glm-ash-notes)
 - [Trans-eQTL ideas](/trans-eqtl-ideas)
