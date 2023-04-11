@@ -12,7 +12,7 @@ layout: home
 - Neuropsychiatric Disorder
 
 
-## UChicago
+## UChicago WIP
 - [Empirical Bayes Multiple Regression](/iridge-notes)
 - [GLM with adaptive shrinkage prior](/glm-ash-notes)
 
