@@ -7,8 +7,14 @@ layout: home
 
 [Homepage](https://saik.at) &nbsp;&nbsp;&nbsp; \| &nbsp;&nbsp;&nbsp; [Twitter](https://twitter.com/banskt) &nbsp;&nbsp;&nbsp; \| &nbsp;&nbsp;&nbsp; [LinkedIn](https://linkedin.com/in/banskt)
 
-## Projects
+## NYGC Projects
+- [Lab Notebook](/lab-notebook)
+- [Neuropsychiatric Disorder](/npd-notes)
 
+
+## UChicago
 - [Empirical Bayes Multiple Regression](/iridge-notes)
 - [GLM with adaptive shrinkage prior](/glm-ash-notes)
+
+## Trans-eQTL
 - [Trans-eQTL ideas](/trans-eqtl-ideas)
