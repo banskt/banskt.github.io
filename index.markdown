@@ -8,8 +8,8 @@ layout: home
 [Homepage](https://saik.at) &nbsp;&nbsp;&nbsp; \| &nbsp;&nbsp;&nbsp; [GitHub](https://github.com/banskt) &nbsp;&nbsp;&nbsp; \| &nbsp;&nbsp;&nbsp; [LinkedIn](https://linkedin.com/in/banskt) &nbsp;&nbsp;&nbsp; \| &nbsp;&nbsp;&nbsp; [Twitter](https://twitter.com/banskt)
 
 ## NYGC Projects
-- [Lab Notebook](/lab-notes)
-- Neuropsychiatric Disorder
+- [Lab Notebook](/nygc-notes)
+- [Neuropsychiatric Disorder](/npd-notes)
 
 
 ## UChicago WIP
